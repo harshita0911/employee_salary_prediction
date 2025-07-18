@@ -108,7 +108,6 @@ This project demonstrates how machine learning can be effectively applied in the
 ## Author
 
 Created by: Harshita 
-
 [LinkedInProfile]:[https://www.linkedin.com/in/harshita-jangra-396437335]
 
 
