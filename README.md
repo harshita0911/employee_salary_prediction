@@ -1,4 +1,5 @@
-📘 Project Title: Employee Salary Prediction Using Machine Learning
+📘 Project Title: 
+Employee Salary Prediction Using Machine Learning
 📌 Project Description
 The Employee Salary Prediction project aims to build a machine learning model that accurately estimates the salary (or monthly income) of employees based on various personal, performance, and organizational attributes. The dataset used, named employee.csv,contains detailed records of employees, including their demographic information, job roles, education, performance metrics, and more.
 
@@ -104,4 +105,5 @@ Insights into employee compensation structure
 
 ✅ Conclusion
 This project demonstrates how machine learning can be effectively applied in the HR domain to estimate salaries based on structured data. The predictive model can help organizations in fair compensation planning, reducing biases, and understanding employee value drivers more comprehensively.
+
 
