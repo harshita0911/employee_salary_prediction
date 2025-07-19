@@ -1,11 +1,11 @@
-📘 Project Title: 
+## 📘 Project Title: 
 Employee Salary Prediction Using Machine Learning
-📌 Project Description:
-The Employee Salary Prediction project aims to build a machine learning model that accurately estimates the salary (or monthly income) of employees based on various personal, performance, and organizational attributes. The dataset used, named employee.csv,contains detailed records of employees, including their demographic information, job roles, education, performance metrics, and more.
 
+## 📌 Project Description:
+The Employee Salary Prediction project aims to build a machine learning model that accurately estimates the salary (or monthly income) of employees based on various personal, performance, and organizational attributes. The dataset used, named employee.csv,contains detailed records of employees, including their demographic information, job roles, education, performance metrics, and more.
 By leveraging this data, we aim to uncover patterns and key factors influencing employee compensation, which can support HR departments in making data-driven decisions regarding recruitment, promotions, and compensation planning.
 
-📂 Dataset Description:
+## 📂 Dataset Description:
 The dataset includes features such as:
 
 EmployeeID
@@ -32,10 +32,8 @@ And many others...
 
 Most features are either categorical or numerical, with MonthlyIncome being the continuous target variable to predict.
 
-🔍 Problem Statement:
-Objective: Predict the monthly income (MonthlyIncome) of employees based on their characteristics and job-related attributes.
 
-Challenges:
+## Challenges:
 
 Handling categorical features like job role, department, gender, etc.
 
@@ -43,10 +41,10 @@ Dealing with multicollinearity and feature scaling.
 
 Evaluating regression performance accurately.
 
-🛠️ Tools & Technologies Used:
+## 🛠️ Tools & Technologies Used:
 Programming Language: Python
 
-Libraries:
+## Libraries:
 
 pandas, numpy for data handling
 
@@ -54,13 +52,13 @@ matplotlib, seaborn for visualization
 
 scikit-learn for preprocessing, modeling, and evaluation
 
-Models Used:
+## Models Used:
 
 Linear Regression
 
 Random Forest Regressor
 
-🚀 Workflow
+## 🚀 Workflow
 Data Collection
 The dataset is uploaded as a ZIP file and extracted using Python.
 
@@ -86,29 +84,26 @@ Linear Regression as a baseline model
 
 Random Forest Regressor for improved performance
 
-Model Evaluation:
+## Model Evaluation:
 
 Metrics used: Mean Squared Error (MSE), R² Score
 
 Visualization of actual vs predicted values
 
-Model Export (Optional)
-
-The trained model is saved using joblib for later deployment or use.
-
-📊 Expected Outcomes:
+## 📊 Expected Outcomes:
 Accurate salary predictions for new or existing employees
 
 Identification of important features affecting salary (e.g., Job Role, Experience, Education)
 
 Insights into employee compensation structure
 
-✅ Conclusion:
+## ✅ Conclusion:
 This project demonstrates how machine learning can be effectively applied in the HR domain to estimate salaries based on structured data. The predictive model can help organizations in fair compensation planning, reducing biases, and understanding employee value drivers more comprehensively.
-## Author
 
-Created by: Harshita 
-[LinkedInProfile]:[https://www.linkedin.com/in/harshita-jangra-396437335]
+## Author
+Harshita
+
+## [LinkedInProfile]:[https://www.linkedin.com/in/harshita-jangra-396437335]
 
 
 
